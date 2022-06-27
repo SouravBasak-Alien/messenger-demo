@@ -121,7 +121,7 @@ body{
 .chat-list-logo{
     display: flex;
     align-items: center;
-    padding-top: 10px;
+    padding-top: 11px;
 }
 .chat-list-logo img{
     width: 20%;
