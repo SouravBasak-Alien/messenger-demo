@@ -141,5 +141,15 @@ body{
     margin-top: 8px;
     font-weight: 500;
 }
+.aleart{
+    display: none;
+}
+@media screen and (min-width: 680px) {
+    .aleart {
+        display: block;
+        color: red;
 
+    }
+ 
+}
 
