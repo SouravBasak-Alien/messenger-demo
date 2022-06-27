@@ -124,12 +124,12 @@ body{
     padding-top: 20px;
 }
 .chat-list-logo img{
-    width: 12%;
+    width: 20%;
     border: 2px solid black;
     border-radius: 50%;
 }
 .chat-name{
-    margin-left: 25px;
+    margin-left: 10px;
 }
 .chat-name span{
     font-size: 15px;
