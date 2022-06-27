@@ -16,10 +16,10 @@ body{
     justify-content:space-between;
 }
 .profile-admin-left img{
-    width: 15%;
+    width: 25%;
     border: 2px solid rgb(0, 0, 0);
     border-radius: 50%;
-    margin-right: 15px;
+    margin-right: 5px;
 }
 .profile-admin-left h2{
     color: #ffffff;
@@ -121,7 +121,7 @@ body{
 .chat-list-logo{
     display: flex;
     align-items: center;
-    padding-top: 20px;
+    padding-top: 10px;
 }
 .chat-list-logo img{
     width: 20%;
